@@ -94,7 +94,7 @@ textarea {
 .form-control {
 	box-shadow: none;
 	-webkit-box-shadow: none;
-	border-radius: 0px;
+	border-radius: 4px;
 	height: 38px;
 }
 .form-control:focus {
